@@ -1,6 +1,6 @@
-# CNN from Scratch: Fashion MNIST Classification
+# Fashion MNIST Classification
 
-This repository contains a professional implementation of a **Convolutional Neural Network (CNN)** built entirely from scratch using **NumPy** and **Pandas**. The project focuses on the manual implementation of spatial feature extraction and the mathematical backpropagation of gradients through non-linear layers.
+This is the implementation of a **Convolutional Neural Network (CNN)** built entirely from scratch using **NumPy** and **Pandas**. The project focuses on the manual implementation of spatial feature extraction and the mathematical backpropagation of gradients through non-linear layers.
 
 ## Technical Highlights
 Unlike standard implementations using high-level frameworks (TensorFlow/PyTorch), this project implements the "under-the-hood" logic:
