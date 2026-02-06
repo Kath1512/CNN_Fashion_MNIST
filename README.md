@@ -15,7 +15,7 @@ The model achieves high performance on the Fashion MNIST dataset:
 * **Training Accuracy**: Reached **~94%** within 10 epochs.
 * **Validation Accuracy**: Consistently achieved **~89%** on unseen test data.
 
-## 💻 Tech Stack
+## Tech Stack
 * **Language**: Python
 * **Core Math**: NumPy, Pandas
 * **Visualization**: Matplotlib
